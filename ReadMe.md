@@ -21,7 +21,7 @@
 
 ##รูปภาพโครงงานเบื้องต้น
 * ด้านหน้ากระปุก
-[![1111.jpg](https://s7.postimg.org/ydvbws6uz/1111.jpg)](https://postimg.org/image/5o8g052uv/)
+[![1111.jpg](https://s7.pixxxels.cc/5cqznmerv/1111.jpg)](https://pixxxels.cc/image/p7d19qtzb/)
 * ด้านข้างของกระปุก
 [![2222.jpg](https://s7.pixxxels.cc/s068tl74r/2222.jpg)](https://pixxxels.cc/image/kwyddz1p3/)
 * ด้านข้างของกระปุก
