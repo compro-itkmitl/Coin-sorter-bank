@@ -12,20 +12,23 @@
 * Adapter dc 3.3 v or 5 v
 
 
-##คุณสมบัติการทำงานของโครงงาน
+## คุณสมบัติการทำงานของโครงงาน
 
 * สามารถนับยอดเงินที่หยอดในกระปุกออมสินได้
 * สามารถนับจำนวนเหรียญที่หยอดได้
 * ใช้ได้กับเหรียญ 1 บาท เหรียญ 5 บาท และเหรียญ 10 บาท
 * แสดงยอดเงินรวมและจำนวนเหรียญแต่ละชนิดผ่านจอ LCD
 
-##รูปภาพโครงงานเบื้องต้น
+## รูปภาพโครงงานเบื้องต้น
 * ด้านหน้ากระปุก
 [![1111.jpg](https://s7.pixxxels.cc/5cqznmerv/1111.jpg)](https://pixxxels.cc/image/p7d19qtzb/)
+
 * ด้านข้างของกระปุก
 [![2222.jpg](https://s7.pixxxels.cc/s068tl74r/2222.jpg)](https://pixxxels.cc/image/kwyddz1p3/)
+
 * ด้านข้างของกระปุก
 [![3333.jpg](https://s7.pixxxels.cc/gntnbu8qj/3333.jpg)](https://pixxxels.cc/image/vwjkpm2ev/)
+
 * ด้านบนของกระปุก
 [![4444.jpg](https://s7.pixxxels.cc/5o8g0a81n/4444.jpg)](https://pixxxels.cc/image/dgz3s9e0n/)
 
