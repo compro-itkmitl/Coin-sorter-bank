@@ -35,5 +35,5 @@
 ## ผู้จัดทำ
 * 60070044 : Benjamad Rittiwanich
 * 60070053 : Punmanat Nunthasunti
-* 60070077 : Yaimai Prasert
+* 60070077 : Yonlada Prasert
 
